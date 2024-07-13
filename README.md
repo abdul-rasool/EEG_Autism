@@ -20,12 +20,10 @@ The files with the suffix _Gen_Results have been used to generate supplementary 
 
 The datasets are available as follows:
 
-1. Dataset 1: 
+1. Dataset 1: https://nda.nih.gov/edit_collection.html?id=2021 
+2. Dataset 2: https://nda.nih.gov/edit_collection.html?id=2288
 
-   - TD: https://drive.google.com/drive/folders/18-Xj9v6aqb_x8Jj0Y62BPaKa_RfCb218?usp=sharing
-   - ASD: https://drive.google.com/drive/folders/14WU7mHeqfHgo_BmnjC9nbJy6hT9mlpzl?usp=sharing
-
-2. Dataset 2: https://drive.google.com/drive/folders/1zZ1XT-SPy-OYX4o9IGwqfl6Jw97Pjl66?usp=sharing
+The data used in this study were obtained with permission (DAR ID: 18847) from the NIH-supported National Institute of Mental Health Data Archive (NDA). 
 
 # Citation
 

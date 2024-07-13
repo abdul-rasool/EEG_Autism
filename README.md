@@ -2,7 +2,7 @@
 
 EEFM: An Encoder-Ensemble Fusion Model for Autism Disorder Detection Using Feature-Enhanced EEG Signals
 
-## What is EEFM?
+### What is EEFM?
 
 An Encoder-Ensemble Fusion Model (EEFM) designed to enhance ASD diagnosis using EEG data. The EEFM integrates feature engineering with a sophisticated fusion network architecture, initially extracting a diverse range of time and frequency domain characteristics from EEG signals. This approach aids in determining the nuanced and heterogeneous patterns associated with ASD, leveraging ensemble learning and autoencoder techniques to capture complex relationships within the data. Specifically, an LSTMautoencoder captures temporal and spatial patterns, followed by an XGBoost Regressor for nonlinear relationship modeling and a linear regression model for boundary interpretation.
 

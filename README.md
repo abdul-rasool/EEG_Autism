@@ -1,6 +1,6 @@
-# ASD_Classification_EEG
+# ASD-TD_Diagnosis_EEG
 
-EEFM: An Encoder-Ensemble Fusion Model for Autism Disorder Detection Using Feature-Enhanced EEG Signals
+An Encoder-Ensemble Fusion Model for Autism Diagnosis Using Multi-Domain EEG Signal Analysis
 
 ### What is EEFM?
 

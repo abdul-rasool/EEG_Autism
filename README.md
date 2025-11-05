@@ -30,7 +30,11 @@ The datasets are available as follows:
 The data used in this study were obtained with permission (DAR ID: 18847) from the NIH-supported National Institute of Mental Health Data Archive (NDA). 
 
 # Citation
+
 Title: Deep neurocomputational fusion for ASD diagnosis using multi-domain EEG analysis
+
 Journal: Neurocomputing
+
 DOI: https://www.sciencedirect.com/science/article/pii/S0925231225010252
+
 Year: 2025
